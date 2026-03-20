@@ -178,14 +178,14 @@ box-shadow: none;
 }
 
 .resume p {
-  font-size: 2.0rem;
+  font-size: 2.5rem;
   color: #fff;
   margin-bottom: 2rem;
 }
 
 .resume .btn {
   display: inline-flex;
-  padding: 10px 30px;
+  padding: 15px 35px;
   background: aquamarine;
   border: 2px solid aquamarine;
   border-radius: 40px;
