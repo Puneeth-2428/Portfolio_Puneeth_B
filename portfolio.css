@@ -172,7 +172,7 @@ box-shadow: none;
 }
 
 .resume h1 {
-  font-size: 2.5rem;
+  font-size: 3.0rem;
   margin-bottom: 1rem;
   color: #fff;
 }
@@ -185,7 +185,7 @@ box-shadow: none;
 
 .resume .btn {
   display: inline-flex;
-  padding: 15px 35px;
+  padding: 10px 30px;
   background: aquamarine;
   border: 2px solid aquamarine;
   border-radius: 40px;
