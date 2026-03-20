@@ -246,32 +246,10 @@ box-shadow: none;
   margin-bottom: 1rem;
   color: #fff;
 }
-.projects h5 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  color: #fff;
-}
-.projects h6 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  color: #fff;
-}
-.projects h7 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  color: #fff;
-  font-weight: 200px;
-}
 .projects p {
   font-size: 2.5rem;
   margin-bottom: 1rem;
   color: #fff;
-}
-.projects h8 {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-  color: #fff;
-  font-weight: 200px;
 }
 .experience {
   display:flex;
