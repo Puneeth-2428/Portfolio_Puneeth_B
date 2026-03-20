@@ -284,6 +284,10 @@ box-shadow: none;
   margin-bottom: 1rem;
   color: #fff;
 }
+.experience p {
+  font-size: 1.5;
+  margin-bottom: 1rem;
+  color: #fff;
 .contact {
   display:flex;
   align-items: center;
