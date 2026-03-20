@@ -222,7 +222,7 @@ box-shadow: none;
   color:#fff;
 }
 .projects h1 {
-  font-size: 2.5rem;
+  font-size: 3.0rem;
   margin-bottom: 1rem;
   color: #fff;
 }
@@ -262,6 +262,11 @@ box-shadow: none;
   color: #fff;
   font-weight: 200px;
 }
+.projects p {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #fff;
+}
 .projects h8 {
   font-size: 2.5rem;
   margin-bottom: 1rem;
@@ -276,7 +281,7 @@ box-shadow: none;
   color:#fff;
 }
 .experience h1 {
-  font-size: 2.5rem;
+  font-size: 3.0rem;
   margin-bottom: 1rem;
   color: #fff;
 }
@@ -308,7 +313,7 @@ box-shadow: none;
   color:#fff;
 }
 .contact h1 {
-  font-size: 2.5rem;
+  font-size: 3.0rem;
   margin-bottom: 1rem;
   color: #fff;
 }
