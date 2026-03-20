@@ -288,6 +288,7 @@ box-shadow: none;
   font-size: 2.0;
   margin-bottom: 1rem;
   color: #fff;
+}
 .contact {
   display:flex;
   align-items: center;
@@ -325,7 +326,7 @@ box-shadow: none;
 
 .contact-details a:hover {
     background: aquamarine;
-    color: #1f2424;
+    color: #fff;
     box-shadow: 0 0 1rem aquamarine;
 }
 .contact-details {
