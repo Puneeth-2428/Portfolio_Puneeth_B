@@ -336,13 +336,4 @@ footer {
    font-size: 2.5rem;
    margin-bottom: 1rem;
    color: #fff;
-   display: flex;
-   align-items: left;
-   justify-content: left;
-   gap: 0.8rem;
-}
-.copyright-icon {
-  width: 2rem;
-  height: 2rem;
-  flex-shrink: 0;
 }
