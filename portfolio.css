@@ -337,8 +337,8 @@ footer {
    margin-bottom: 1rem;
    color: #fff;
    display: flex;
-   align-items: center;
-   justify-content: center;
+   align-items: left;
+   justify-content: left;
    gap: 0.8rem;
 }
 .copyright-icon {
