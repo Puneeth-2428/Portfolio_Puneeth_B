@@ -243,6 +243,7 @@ box-shadow: none;
 }
 .projects li {
   font-size: 2.0rem;
+  padding: 60px 10% 0;
   margin-bottom: 1rem;
   color: #fff;
 }
