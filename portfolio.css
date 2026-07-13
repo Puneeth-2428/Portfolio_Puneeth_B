@@ -184,13 +184,14 @@ box-shadow: none;
 }
 
 .resume .btn {
-  display: inline-flex;
-  padding: 5px 25px;
+  display: inline-block;
+  padding: 10px 30px;
   background: aquamarine;
   border: 2px solid aquamarine;
   border-radius: 40px;
   box-shadow: 0 0 10px aquamarine;
-  margin-left: 2rem;
+  margin-left: 0rem;
+  margin-top: 1rem
   font-size: 16px;
   color: #1f2424;
   font-weight: 600;
