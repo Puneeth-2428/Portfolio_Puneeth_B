@@ -241,9 +241,13 @@ box-shadow: none;
   margin-bottom: 1rem;
   color: #fff;
 }
+.projects ul{
+  padding-left: 3rem; 
+  margin-bottom: 1rem;
+}
 .projects li {
   font-size: 2.0rem;
-  padding: 60px 10% 0;
+  padding-left: 1rem;
   margin-bottom: 1rem;
   color: #fff;
 }
